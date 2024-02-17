@@ -10,7 +10,7 @@ public class Room {
 
     public Room(String id) {
         this.id = id;
-        System.out.println("Room instance created: " + id);
+        System.out.println("Room instance " + this.id);
     }
 
     public void cleanRoom() {

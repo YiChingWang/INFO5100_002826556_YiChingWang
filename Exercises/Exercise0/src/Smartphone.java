@@ -11,7 +11,7 @@ public class Smartphone {
     public Smartphone(String id, String brand) {
         this.id = id;
         this.brand = brand;
-        System.out.println("Smartphone instance created: " + id);
+        System.out.println("Smartphone instance " + this.id);
     }
 
     public void makeCall() {

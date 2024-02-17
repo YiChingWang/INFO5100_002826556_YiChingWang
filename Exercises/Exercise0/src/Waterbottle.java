@@ -17,7 +17,7 @@ public class Waterbottle {
         this.weight = weight;
         this.brand = brand;
         this.hasStraw = hasStraw;
-        System.out.println("WaterBottle instance created: " + this.id);
+        System.out.println("WaterBottle instance " + this.id);
     }
 
     public void fill() {

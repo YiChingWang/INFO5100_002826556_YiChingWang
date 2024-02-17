@@ -19,7 +19,7 @@ public class Bed {
         this.height = height;
         this.hasHeadboard = hasHeadboard;
         this.hasFootboard = hasFootboard;
-        System.out.println("Bed instance created: " + this.id);
+        System.out.println("Bed instance " + this.id);
     }
 
     public void make() {

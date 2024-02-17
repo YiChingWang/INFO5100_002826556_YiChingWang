@@ -10,7 +10,7 @@ public class Table {
 
     public Table(String id) {
         this.id = id;
-        System.out.println("Table instance created: " + id);
+        System.out.println("Table instance " +this.id);
     }
     public void clean() {
         System.out.println("Cleaning the table.");

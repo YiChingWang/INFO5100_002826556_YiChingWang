@@ -17,7 +17,7 @@ public class Clothing {
         this.brand = brand;
         this.isWashable = isWashable;
         this.pattern = pattern;
-        System.out.println("Clothing instance created: " + this.id);
+        System.out.println("Clothing instance " + this.id);
     }
 
     public void wear() {

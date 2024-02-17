@@ -11,7 +11,7 @@ public class Laptop {
     public Laptop(String id, String brand) {
         this.id = id;
         this.brand = brand;
-        System.out.println("Laptop instance created: " + id);
+        System.out.println("Laptop instance " + this.id);
     }
     public void powerOn() {
 

@@ -17,7 +17,7 @@ public class Pot {
         this.isNonStick = isNonStick;
         this.weight = weight;
         this.brand = brand;
-        System.out.println("Pot instance created: " + this.id);
+        System.out.println("Pot instance " + this.id);
     }
 
     public void cook() {

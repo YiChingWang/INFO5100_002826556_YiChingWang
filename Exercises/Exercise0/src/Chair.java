@@ -10,7 +10,7 @@ public class Chair {
 
     public Chair(String id) {
         this.id = id;
-        System.out.println("Chair instance created: " + id);
+        System.out.println("Chair instance " + this.id);
     }
     public void sit() {
         System.out.println("Sitting on the chair.");

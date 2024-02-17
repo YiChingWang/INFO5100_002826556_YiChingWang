@@ -19,7 +19,7 @@ public class Pencilcase {
         this.compartmentCount = compartmentCount;
         this.isZippered = isZippered;
         this.brand = brand;
-        System.out.println("PencilCase instance created: " + this.id);
+        System.out.println("PencilCase instance " + this.id);
     }
 
     public void open() {
