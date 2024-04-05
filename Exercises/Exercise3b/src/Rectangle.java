@@ -1,4 +1,5 @@
-public class Rectangle extends Shape {
+import java.io.Serializable;
+public class Rectangle extends Shape implements Serializable {
     private double width;
     private double height;
 
