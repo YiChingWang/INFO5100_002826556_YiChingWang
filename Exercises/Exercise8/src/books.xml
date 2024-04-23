@@ -1,0 +1,27 @@
+<BookShelf>
+  <Book>
+    <title>Harry Potter and the Sorcerer's Stone</title>
+    <publishedYear>1997</publishedYear>
+    <numberOfPages>309</numberOfPages>
+    <authors>
+      <author>J.K. Rowling</author>
+    </authors>
+  </Book>
+  <Book>
+    <title>The Three-Body Problem</title>
+    <publishedYear>2008</publishedYear>
+    <numberOfPages>302</numberOfPages>
+    <authors>
+      <author>Cixin Liu</author>
+    </authors>
+  </Book>
+  <Book>
+    <title>The Hunger Games</title>
+    <publishedYear>2008</publishedYear>
+    <numberOfPages>374</numberOfPages>
+    <authors>
+      <author>Suzanne Collins</author>
+    </authors>
+  </Book>
+</BookShelf>
+
